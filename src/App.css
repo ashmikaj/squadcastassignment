@@ -1,0 +1,30 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.inputBox {
+  width: 40rem;
+  position: relative;
+  margin-top: 20%;
+  height: 2rem;
+}
+
+
+.listItem {
+margin-left: 0.4rem;
+text-color: blue;
+}
+
+.dropdown{
+text-align: left;
+border: 0.2px solid black;
+margin-top: 0.4rem;
+}
+
+.spanNew{
+ background-color: lightskyblue;
+}
